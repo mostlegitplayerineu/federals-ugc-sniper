@@ -1,0 +1,34 @@
+2023-05-09 22:41:13,020 - INFO - Started Sniper Class
+2023-05-09 22:41:13,021 - INFO - Setting up accounts
+2023-05-09 22:41:13,022 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:41:13,306 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:41:13,308 - DEBUG - Scraped x_token
+2023-05-09 22:41:13,585 - DEBUG - Checking Version
+2023-05-09 22:41:13,591 - ERROR - An error occurred: Traceback (most recent call last):
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 691, in <module>
+    sniper = Sniper()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 133, in __init__
+    self.check_version()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 400, in check_version
+    self._print_stats()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 455, in _print_stats
+    module = getattr(themes, function_name)
+AttributeError: module 'themes' has no attribute 'UGCLooter_theme'
+
+2023-05-09 22:41:19,885 - INFO - Started Sniper Class
+2023-05-09 22:41:19,885 - INFO - Setting up accounts
+2023-05-09 22:41:19,886 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:41:20,168 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:41:20,171 - DEBUG - Scraped x_token
+2023-05-09 22:41:20,431 - DEBUG - Checking Version
+2023-05-09 22:41:20,436 - ERROR - An error occurred: Traceback (most recent call last):
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 691, in <module>
+    sniper = Sniper()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 133, in __init__
+    self.check_version()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 400, in check_version
+    self._print_stats()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 455, in _print_stats
+    module = getattr(themes, function_name)
+AttributeError: module 'themes' has no attribute 'UGCLooter_theme'
+
